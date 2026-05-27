@@ -157,9 +157,11 @@ Track delivery partner performance and reduce return/cancellation triggers opera
 ---
 
 # 📷 Dashboard Preview
+![Image Alt](https://github.com/Vansh-glitch1505/The_Souled_Store/blob/main/overview.jpeg)
+![Image Alt](https://github.com/Vansh-glitch1505/The_Souled_Store/blob/main/Discount.jpeg)
 ![Image Alt](https://github.com/Vansh-glitch1505/The_Souled_Store/blob/main/COD.jpeg)
+![Image Alt](https://github.com/Vansh-glitch1505/The_Souled_Store/blob/main/Franchise.jpeg)
 
-(Add your dashboard screenshots here)
 
 ---
 
