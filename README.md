@@ -136,9 +136,6 @@ Increase focus on Instagram and Influencer campaigns, which contribute significa
 ### Improve Customer Retention
 Strengthen post-purchase CRM flows to improve repeat purchases and reduce dependency on paid acquisition.
 
-### Improve Operational Efficiency
-Track delivery partner performance and reduce return/cancellation triggers operationally.
-
 ---
 
 # 🧠 Skills Demonstrated
